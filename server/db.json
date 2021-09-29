@@ -1,0 +1,41 @@
+{
+  "arrendatarios": [
+    {
+      "id": 1,
+      "name": "Manuel Asencio",
+      "age": 30,
+      "address": "Unknown"
+    },
+    {
+      "id": 2,
+      "name": "Marcos",
+      "age": 31,
+      "address": "raaa"
+    },
+    {
+      "id": 3,
+      "name": "Marcela",
+      "age": 15,
+      "address": "alla"
+    },
+    {"id": 4,
+      "name": "Maria",
+      "age": 40,
+      "address": "fue man"}
+
+  ],
+  "Skills": [
+    {"id": 1,"name": "Backend Developer"},
+    {"id": 2,"name": "Frontend Developer"},
+    {"id": 3,"name": "Mobile Developer"},
+    {"id": 4,"name": "Game Developer"}
+  ],
+  "competences": [
+    {"id": 1,"arrendatarioId": 1,"skillId": 1},
+    {"id": 2,"arrendatarioId": 2,"skillId": 2},
+    {"id": 3,"arrendatarioId": 3,"skillId": 3},
+    {"id": 4,"arrendatarioId": 4,"skillId": 4}
+
+  ]
+
+}
